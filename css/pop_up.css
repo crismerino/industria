@@ -1,0 +1,79 @@
+.cabecera{
+	width: 100%;
+	height: 200px;
+	background-color: black;
+}
+.logo{
+	margin: 0px auto;
+	width: 200px;
+	height: 100px;
+	background-color: white;
+	font-size: 30px;
+	text-align: center;
+}
+.menu{
+	width: 100%;
+	height: 50px;
+	background-color: green;
+	text-align: center;
+}
+.eventos{
+	margin: 50px;
+	overflow: hidden;
+}
+.fotoevento{
+	display: inline-block;
+	width: 500px;
+	height: 500px;
+	background-color: black;
+	float: left;
+	margin-left: 150px;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+}
+.cajacalendario{
+	display: inline-block;
+	float: right;
+	margin-right: 150px;
+}
+.calendario{
+	width: 500px;
+	height: 380px;
+	background-color: black;
+	text-align: center;
+	color: white;	
+}
+.bottomcalendario{
+	width: 500px;
+	height: 100px;
+	background-color: black;
+	margin-top: 20px;
+}
+.intermedia{
+	width: 100%;
+	height: 250px;
+	background-color: red;
+}
+.marcas{
+	margin-top: 50px;
+	margin-left: 50px;
+	overflow: hidden;
+}
+.fin{
+	height: 250px;
+	background-color: black; 
+	margin-top: 50px;
+}
+.redessociales{
+	width: 35%;
+	margin:0 auto;
+	color: white;
+	font-size: 30px;
+}
+.redes{
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	display: inline-block;
+}
